@@ -1,4 +1,4 @@
-# sql_project_on.netflix
+                            # sql_project_on.netflix
 
 ![NETFLIX LOGO](https://github.com/sahil-bishtgits/sql_project_on.netflix/blob/main/logo.png)
 
